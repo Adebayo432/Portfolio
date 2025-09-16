@@ -98,6 +98,14 @@ div p strong{
 .more-info p{
     margin: 5px;
 }
+.more-info p a {
+      margin: 0px;
+    font-weight: bold;
+    font-size: 15px;
+    padding: 0px;
+    color: #64FFDA;
+    text-decoration: none;
+}
 
 .projects h2 {
     color: #64FFDA;
@@ -150,5 +158,6 @@ div p strong{
 
 }
 .footer img{
+    padding-top: 15px;
     width: 30px;
 }
